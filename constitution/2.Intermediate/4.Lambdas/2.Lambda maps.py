@@ -10,6 +10,6 @@ productos = [
 for producto in productos:
     print(producto[0])
 
-precios = map(lambda producto:producto[1],productos)
+precios = list(map(lambda producto:producto[1],productos))
 
 print(precios)
