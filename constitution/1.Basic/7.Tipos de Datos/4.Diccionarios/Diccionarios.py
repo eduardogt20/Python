@@ -1,5 +1,6 @@
 #Diccionarios
 
+#Definicion 
 personas = {
     "nombre" : "Bairon",
     "edad" : 17,
@@ -18,6 +19,10 @@ if "altura" in personas:
     print(personas["altura"])
 else:
     print(personas)
+
+#Obtener llaves
+list(personas.keys())
+print(list)
 
 #Comprovar si hay un valor en el diccionario
 print(personas.get("altura", "No hay altura"))
