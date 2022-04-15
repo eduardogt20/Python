@@ -9,3 +9,10 @@ comando = ""
 while comando != "Salir":
     comando = input(">")
     print(f"El comando introducido es {comando}")
+
+#Otro ejemplo de while
+n = 1  
+
+while n != 101:
+    print(n)
+    n += 1
