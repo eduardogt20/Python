@@ -8,9 +8,9 @@
     hackerank
     codebyte
 3.Aprende Estructuras de Datos:
-    Vectores/Arrays/Arreglos
+    Vectores/Arrays/Listas = Iguales en python existe listas y arrays
     Listas enlazadas
-    Tablas de Hash(Clave valor)
+    Tablas de Hash(Clave valor)/ Diccionarios
     Pilas/Colas
     Grafos
     Arboles
