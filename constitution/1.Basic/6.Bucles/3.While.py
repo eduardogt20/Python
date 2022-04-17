@@ -1,4 +1,4 @@
-#Bucles while
+#Bucles while = Mietras
 '''numero = 100 
 while numero > 0:
     print(numero)

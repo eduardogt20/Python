@@ -1,4 +1,4 @@
-# Listas
+#Listas
 '''
 letras = ["a",12,True,"c",["Nim","lor"]]
 
@@ -9,12 +9,11 @@ print(letras_dos)
 '''
 
 nombre = list ("Bairon")
-nombre.append("Prueba") #Agrega
+nombre.append("Prueba") #Agrega 
 print(nombre)
 nombre.remove("Prueba") #Remueve
 print(nombre)
 
-#Definicion de una lista
 numeros = [3,2,5,6,8,1,4,7,9,10]
 numeros.sort() #Ordena
 print(numeros)

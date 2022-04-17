@@ -1,4 +1,4 @@
-#Operadores Logicos y Encadenados
+# Operadores Logicos y Encadenados
 '''
 Son los Siguientes:
 and / y  
@@ -9,17 +9,17 @@ not / no
 x = True
 y = True
 
-#and Las 2 verdaderas para ser verdadera
+# and Las 2 verdaderas para ser verdadera
 if x == y and x != y:
     print("Es true")
 else:
     print("Es False")
 
-#una de ellas tiene que ser verdadera para ser verdadera
+# una de ellas tiene que ser verdadera para ser verdadera
 if x == y or x > y:
     print("Or es True")
 
-#Concatenacion
+# Concatenacion
 
 edad = 18
 
