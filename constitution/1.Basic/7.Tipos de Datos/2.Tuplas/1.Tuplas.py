@@ -34,6 +34,6 @@ if 2 in datos:
 
 #No se puede asignar
 datos = (1,3,2) #Si se puede sobrescribir 
-datos[0] = 5 #Da un error no se puede
+datos[0] = 5 #Da un error Tupla = Inmutable
 sorted(datos) #Ordena
 print(datos[0]) 
