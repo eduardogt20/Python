@@ -1,5 +1,13 @@
 #Lambda
 
+# lambda <argumentos> : <expresión>
+lambda num : num * 2
+
+#Como usar lambda sin llamar
+multiplicar = lambda a, b : a * b
+
+print(multiplicar(2, 2)) # 4
+
 #Sumar con funcion normal
 def sumar(x,y):
     return x+y
